@@ -1,0 +1,13 @@
+{
+  "name": "resell-assist-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Lightweight MVP for resale assistance",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "serve": "python3 -m http.server 4173",
+    "test": "node tests/run-tests.js && node tests/snapshot-tests.js && node tests/yahoo-source-tests.js",
+    "snapshot": "node scripts/generate-snapshot.js"
+  },
+  "type": "module"
+}

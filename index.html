@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <title>Resell Assist MVP</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">中古売却アシスト</p>
+          <h1>いくらで、どこで売るのがいいかを最短で出す</h1>
+          <p class="sub">商品名を入れると、相場・おすすめ販路・説明文のたたき台を出します。</p>
+        </div>
+      </header>
+
+      <main class="stack">
+        <section class="card">
+          <label for="query" class="label">商品名・型番</label>
+          <div class="searchRow">
+            <input id="query" class="input" placeholder="例: iPhone 13 128GB" />
+            <button id="searchBtn" class="primary">相場をみる</button>
+          </div>
+          <div class="chips">
+            <button class="chip" data-preset="iPhone 14 128GB">iPhone 14</button>
+            <button class="chip" data-preset="AirPods Pro 第2世代 USB-C">AirPods Pro 2</button>
+            <button class="chip" data-preset="Nintendo Switch 有機ELモデル ネオン">Switch OLED</button>
+            <button class="chip" data-preset="iPad Air 第5世代 64GB Wi‑Fi">iPad Air 5</button>
+            <button class="chip" data-preset="PS5 Slim CFI-2000B">PS5 Slim Digital</button>
+            <button class="chip" data-preset="Apple Watch SE 第2世代 44mm">Apple Watch SE2</button>
+          </div>
+          <p class="hint">ローカルSKU辞書 + output/price-snapshots.json を優先して、容量・通信種別・世代違いまで候補表示。</p>
+        </section>
+
+        <section id="emptyState" class="card muted">
+          <h2>まず商品を選ぶ</h2>
+          <p>相場・販路比較・説明文生成はここに表示される。</p>
+        </section>
+
+        <section id="resultSection" class="hidden stack">
+          <section class="card">
+            <div class="resultHeader">
+              <div>
+                <p class="eyebrow">商品候補</p>
+                <h2 id="productName">-</h2>
+                <p id="productCategory" class="sub small">-</p>
+                <div id="productSpecs" class="tagRow productSpecs"></div>
+              </div>
+              <div class="pill" id="priceRange">-</div>
+            </div>
+            <div id="snapshotSummary" class="snapshotSummary hidden">
+              <div class="snapshotTop">
+                <strong>最新スナップショット</strong>
+                <span id="snapshotDate" class="sub small">-</span>
+              </div>
+              <div id="snapshotTags" class="tagRow"></div>
+              <p id="snapshotNotes" class="sub small"></p>
+            </div>
+            <div id="trendSummary" class="trendSummary hidden">
+              <div class="snapshotTop">
+                <strong>価格推移アラート</strong>
+                <span id="trendBadge" class="trendBadge is-muted">-</span>
+              </div>
+              <div id="trendMeta" class="tagRow"></div>
+              <p id="trendNotes" class="sub small"></p>
+            </div>
+          </section>
+
+          <section class="card">
+            <h3>販路比較</h3>
+            <div id="marketGrid" class="marketGrid"></div>
+          </section>
+
+          <section class="card">
+            <h3>おすすめ販路</h3>
+            <div id="recommendations" class="recommendations"></div>
+          </section>
+
+          <section class="card">
+            <h3>おすすめ出品価格</h3>
+            <div id="priceCards" class="priceCards"></div>
+          </section>
+
+          <section class="card">
+            <h3>タイトル案 / 説明文</h3>
+            <div class="copyGroup">
+              <label class="label">タイトル案</label>
+              <textarea id="titleOutput" rows="2" readonly></textarea>
+              <button class="secondary" data-copy-target="titleOutput">コピー</button>
+            </div>
+            <div class="copyGroup">
+              <label class="label">説明文</label>
+              <textarea id="descriptionOutput" rows="8" readonly></textarea>
+              <button class="secondary" data-copy-target="descriptionOutput">コピー</button>
+            </div>
+          </section>
+
+          <section class="card twoCol">
+            <div>
+              <h3>出品前チェック</h3>
+              <ul id="checklist"></ul>
+            </div>
+            <div>
+              <h3>関連アフィリエイト枠</h3>
+              <div class="affiliateBox">
+                <p><strong>おすすめ：</strong>梱包材セット / クリーニングクロス / 撮影ライト</p>
+                <p class="sub small">ここは後でASPやAmazon系アフィリ差し替え想定。</p>
+              </div>
+            </div>
+          </section>
+        </section>
+      </main>
+    </div>
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>

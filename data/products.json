@@ -1,0 +1,1326 @@
+[
+  {
+    "id": "iphone13-128",
+    "category": "スマホ",
+    "series": "iPhone 13",
+    "name": "iPhone 13 128GB SIMフリー",
+    "aliases": [
+      "iphone13",
+      "iphone 13",
+      "iphone13 128gb",
+      "iphone 13 128",
+      "アイフォン13 128gb",
+      "iphone 13 simフリー"
+    ],
+    "searchTokens": [
+      "simフリー",
+      "128gb",
+      "apple",
+      "a15",
+      "mlih3j/a"
+    ],
+    "specs": {
+      "storage": "128GB",
+      "connectivity": "SIMフリー",
+      "generation": "iPhone 13",
+      "color": "ミッドナイト"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 59800,
+        "max": 74800,
+        "feeRate": 0.08,
+        "shipping": 750,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 45000,
+        "max": 55000,
+        "feeRate": 0.06,
+        "shipping": 750,
+        "speed": "slow",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 38000,
+        "max": 47000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "SIMロック解除済みなら記載",
+      "バッテリー最大容量を記載",
+      "画面キズ・フレーム傷の有無を明記"
+    ],
+    "titleKeywords": [
+      "SIMフリー",
+      "美品",
+      "動作確認済み"
+    ]
+  },
+  {
+    "id": "iphone13-256",
+    "category": "スマホ",
+    "series": "iPhone 13",
+    "name": "iPhone 13 256GB SIMフリー",
+    "aliases": [
+      "iphone 13 256",
+      "iphone13 256gb",
+      "iphone 13 256gb sim free",
+      "アイフォン13 256gb"
+    ],
+    "searchTokens": [
+      "simフリー",
+      "256gb",
+      "apple",
+      "a15",
+      "mlnk3j/a"
+    ],
+    "specs": {
+      "storage": "256GB",
+      "connectivity": "SIMフリー",
+      "generation": "iPhone 13",
+      "color": "スターライト"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 69800,
+        "max": 83800,
+        "feeRate": 0.08,
+        "shipping": 750,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 52000,
+        "max": 64000,
+        "feeRate": 0.06,
+        "shipping": 750,
+        "speed": "slow",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 43000,
+        "max": 54000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "容量256GBをタイトルと説明文の両方に入れる",
+      "バッテリー最大容量を記載",
+      "フレームやカメラ周りの傷を明記"
+    ],
+    "titleKeywords": [
+      "256GB",
+      "SIMフリー",
+      "動作確認済み"
+    ]
+  },
+  {
+    "id": "iphone13mini-128",
+    "category": "スマホ",
+    "series": "iPhone 13 mini",
+    "name": "iPhone 13 mini 128GB SIMフリー",
+    "aliases": [
+      "iphone 13 mini 128",
+      "iphone13 mini",
+      "iphone13mini 128gb",
+      "アイフォン13 mini"
+    ],
+    "searchTokens": [
+      "mini",
+      "simフリー",
+      "128gb",
+      "apple",
+      "a15"
+    ],
+    "specs": {
+      "storage": "128GB",
+      "connectivity": "SIMフリー",
+      "generation": "iPhone 13 mini",
+      "size": "5.4インチ"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 62800,
+        "max": 76800,
+        "feeRate": 0.08,
+        "shipping": 750,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 47000,
+        "max": 58000,
+        "feeRate": 0.06,
+        "shipping": 750,
+        "speed": "slow",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 40000,
+        "max": 50000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "miniモデルであることを明記",
+      "バッテリー最大容量を記載",
+      "小型モデルを探している人向け訴求が有効"
+    ],
+    "titleKeywords": [
+      "mini",
+      "SIMフリー",
+      "コンパクト"
+    ]
+  },
+  {
+    "id": "airpodspro2-lightning",
+    "category": "イヤホン",
+    "series": "AirPods Pro 第2世代",
+    "name": "AirPods Pro 第2世代 Lightningケース",
+    "aliases": [
+      "airpods pro 2",
+      "airpodspro2",
+      "airpods pro 第2世代",
+      "airpods pro 2世代",
+      "airpods pro lightning"
+    ],
+    "searchTokens": [
+      "lightning",
+      "mqd83j/a",
+      "apple"
+    ],
+    "specs": {
+      "generation": "第2世代",
+      "connectivity": "Lightning",
+      "edition": "MagSafe充電ケース"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 29800,
+        "max": 39800,
+        "feeRate": 0.08,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 18500,
+        "max": 24500,
+        "feeRate": 0.06,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 14000,
+        "max": 20000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "ノイズキャンセリングの動作確認",
+      "充電ケースの傷を記載",
+      "Lightningモデルであることを明記"
+    ],
+    "titleKeywords": [
+      "純正",
+      "動作良好",
+      "ケース付き"
+    ]
+  },
+  {
+    "id": "airpodspro2-usbc",
+    "category": "イヤホン",
+    "series": "AirPods Pro 第2世代",
+    "name": "AirPods Pro 第2世代 USB-Cケース",
+    "aliases": [
+      "airpods pro usbc",
+      "airpods pro 2 usb-c",
+      "airpods pro 第2世代 usb-c",
+      "airpodspro2 usbc"
+    ],
+    "searchTokens": [
+      "usb-c",
+      "usbc",
+      "mtjv3j/a",
+      "apple"
+    ],
+    "specs": {
+      "generation": "第2世代",
+      "connectivity": "USB-C",
+      "edition": "MagSafe充電ケース"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 31800,
+        "max": 40800,
+        "feeRate": 0.08,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 20500,
+        "max": 26500,
+        "feeRate": 0.06,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 15500,
+        "max": 21500,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "USB-Cケースであることを明記",
+      "ケース底面やヒンジの傷を記載",
+      "イヤーピースの状態を明記"
+    ],
+    "titleKeywords": [
+      "USB-C",
+      "純正",
+      "動作良好"
+    ]
+  },
+  {
+    "id": "switch-oled-white",
+    "category": "ゲーム",
+    "series": "Nintendo Switch 有機ELモデル",
+    "name": "Nintendo Switch 有機ELモデル ホワイト",
+    "aliases": [
+      "switch oled",
+      "nintendo switch oled",
+      "switch 有機el",
+      "スイッチ 有機el",
+      "switch oled white"
+    ],
+    "searchTokens": [
+      "heg",
+      "heg-s-kaaaa",
+      "ホワイト",
+      "white"
+    ],
+    "specs": {
+      "generation": "有機EL",
+      "color": "ホワイト",
+      "edition": "HEG-S-KAAAA"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 34800,
+        "max": 41800,
+        "feeRate": 0.08,
+        "shipping": 850,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 22500,
+        "max": 30500,
+        "feeRate": 0.06,
+        "shipping": 850,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 18000,
+        "max": 25000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "Joy-Conのドリフト有無",
+      "付属品完備かどうか",
+      "液晶の焼けや傷を記載"
+    ],
+    "titleKeywords": [
+      "有機EL",
+      "付属品完備",
+      "初期化済み"
+    ]
+  },
+  {
+    "id": "switch-oled-neon",
+    "category": "ゲーム",
+    "series": "Nintendo Switch 有機ELモデル",
+    "name": "Nintendo Switch 有機ELモデル ネオン",
+    "aliases": [
+      "switch oled neon",
+      "switch 有機el ネオン",
+      "heg-s-kabaa",
+      "スイッチ oled ネオン"
+    ],
+    "searchTokens": [
+      "heg",
+      "heg-s-kabaa",
+      "ネオン",
+      "red blue"
+    ],
+    "specs": {
+      "generation": "有機EL",
+      "color": "ネオン",
+      "edition": "HEG-S-KABAA"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 33800,
+        "max": 40800,
+        "feeRate": 0.08,
+        "shipping": 850,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 21800,
+        "max": 29800,
+        "feeRate": 0.06,
+        "shipping": 850,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 17500,
+        "max": 24500,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "Joy-Con色を明記",
+      "付属品完備かどうか",
+      "液晶の焼けや傷を記載"
+    ],
+    "titleKeywords": [
+      "有機EL",
+      "ネオン",
+      "初期化済み"
+    ]
+  },
+  {
+    "id": "ipad-air5-64-wifi",
+    "category": "タブレット",
+    "series": "iPad Air 第5世代",
+    "name": "iPad Air 第5世代 64GB Wi‑Fi",
+    "aliases": [
+      "ipad air 5",
+      "ipadair5",
+      "ipad air 第5世代",
+      "ipad air 5 64gb",
+      "ipad air 第5世代 wifi"
+    ],
+    "searchTokens": [
+      "wifi",
+      "wi-fi",
+      "64gb",
+      "m1",
+      "mm9c3j/a"
+    ],
+    "specs": {
+      "generation": "第5世代",
+      "storage": "64GB",
+      "connectivity": "Wi‑Fi",
+      "chip": "M1"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 69800,
+        "max": 81800,
+        "feeRate": 0.08,
+        "shipping": 750,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 50000,
+        "max": 61000,
+        "feeRate": 0.06,
+        "shipping": 750,
+        "speed": "slow",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 42000,
+        "max": 52000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "Apple Pencil対応や同梱品を記載",
+      "画面保護フィルム有無",
+      "容量とWi‑Fiモデルを明記"
+    ],
+    "titleKeywords": [
+      "M1",
+      "美品",
+      "付属品あり"
+    ]
+  },
+  {
+    "id": "ipad-air5-256-wifi",
+    "category": "タブレット",
+    "series": "iPad Air 第5世代",
+    "name": "iPad Air 第5世代 256GB Wi‑Fi",
+    "aliases": [
+      "ipad air 5 256gb",
+      "ipadair5 256 wifi",
+      "ipad air 第5世代 256 wifi"
+    ],
+    "searchTokens": [
+      "wifi",
+      "wi-fi",
+      "256gb",
+      "m1"
+    ],
+    "specs": {
+      "generation": "第5世代",
+      "storage": "256GB",
+      "connectivity": "Wi‑Fi",
+      "chip": "M1"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 84800,
+        "max": 97800,
+        "feeRate": 0.08,
+        "shipping": 750,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 61000,
+        "max": 74000,
+        "feeRate": 0.06,
+        "shipping": 750,
+        "speed": "slow",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 51000,
+        "max": 63000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "容量256GBを明記",
+      "画面保護フィルム有無",
+      "Wi‑Fiモデルであることを明記"
+    ],
+    "titleKeywords": [
+      "256GB",
+      "Wi‑Fi",
+      "M1"
+    ]
+  },
+  {
+    "id": "ipad-air5-64-cellular",
+    "category": "タブレット",
+    "series": "iPad Air 第5世代",
+    "name": "iPad Air 第5世代 64GB Cellular",
+    "aliases": [
+      "ipad air 5 cellular 64",
+      "ipad air 第5世代 cellular",
+      "ipadair5 64 cell"
+    ],
+    "searchTokens": [
+      "cellular",
+      "セルラー",
+      "64gb",
+      "5g",
+      "m1"
+    ],
+    "specs": {
+      "generation": "第5世代",
+      "storage": "64GB",
+      "connectivity": "Cellular",
+      "chip": "M1"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 78800,
+        "max": 92800,
+        "feeRate": 0.08,
+        "shipping": 750,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 57000,
+        "max": 70000,
+        "feeRate": 0.06,
+        "shipping": 750,
+        "speed": "slow",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 49000,
+        "max": 60000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "SIM/eSIM利用状況と残債有無を記載",
+      "容量とCellularモデルを明記",
+      "画面・背面の微細傷を記載"
+    ],
+    "titleKeywords": [
+      "64GB",
+      "Cellular",
+      "M1"
+    ]
+  },
+  {
+    "id": "ipad-air5-256-cellular",
+    "category": "タブレット",
+    "series": "iPad Air 第5世代",
+    "name": "iPad Air 第5世代 256GB Cellular",
+    "aliases": [
+      "ipad air 5 256gb cellular",
+      "ipad air 第5世代 256 cellular",
+      "ipadair5 256"
+    ],
+    "searchTokens": [
+      "cellular",
+      "セルラー",
+      "256gb",
+      "5g",
+      "m1"
+    ],
+    "specs": {
+      "generation": "第5世代",
+      "storage": "256GB",
+      "connectivity": "Cellular",
+      "chip": "M1"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 86800,
+        "max": 102800,
+        "feeRate": 0.08,
+        "shipping": 750,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 64000,
+        "max": 79000,
+        "feeRate": 0.06,
+        "shipping": 750,
+        "speed": "slow",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 56000,
+        "max": 69000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "SIM/eSIM利用状況と残債有無を記載",
+      "容量とCellularモデルを明記",
+      "画面・背面の微細傷を記載"
+    ],
+    "titleKeywords": [
+      "256GB",
+      "Cellular",
+      "M1"
+    ]
+  },
+  {
+    "id": "ps5-slim-standard",
+    "category": "ゲーム",
+    "series": "PlayStation 5 Slim",
+    "name": "PlayStation 5 Slim CFI-2000A",
+    "aliases": [
+      "ps5 slim",
+      "playstation5 slim",
+      "cfi-2000",
+      "ps5 cfi-2000",
+      "ps5 slim disc"
+    ],
+    "searchTokens": [
+      "ディスクドライブ",
+      "dual sense",
+      "ソニー",
+      "sony",
+      "cfi-2000a"
+    ],
+    "specs": {
+      "generation": "Slim",
+      "edition": "ディスクドライブ搭載",
+      "model": "CFI-2000A"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 59800,
+        "max": 71800,
+        "feeRate": 0.08,
+        "shipping": 1200,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 50000,
+        "max": 62000,
+        "feeRate": 0.06,
+        "shipping": 1200,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 42000,
+        "max": 50000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "コントローラーのドリフト有無",
+      "付属ケーブルの欠品有無",
+      "外箱の状態を記載"
+    ],
+    "titleKeywords": [
+      "CFI-2000A",
+      "付属品あり",
+      "初期化済み"
+    ]
+  },
+  {
+    "id": "ps5-slim-digital",
+    "category": "ゲーム",
+    "series": "PlayStation 5 Slim",
+    "name": "PlayStation 5 Slim デジタルエディション CFI-2000B",
+    "aliases": [
+      "ps5 slim digital",
+      "ps5 digital edition",
+      "cfi-2000b",
+      "ps5 slim デジタル"
+    ],
+    "searchTokens": [
+      "デジタルエディション",
+      "dual sense",
+      "ソニー",
+      "sony",
+      "cfi-2000b"
+    ],
+    "specs": {
+      "generation": "Slim",
+      "edition": "デジタルエディション",
+      "model": "CFI-2000B"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 52800,
+        "max": 64800,
+        "feeRate": 0.08,
+        "shipping": 1200,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 44500,
+        "max": 56500,
+        "feeRate": 0.06,
+        "shipping": 1200,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 38500,
+        "max": 47000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "ディスクドライブ非搭載であることを明記",
+      "付属ケーブルの欠品有無",
+      "外箱の状態を記載"
+    ],
+    "titleKeywords": [
+      "CFI-2000B",
+      "デジタル",
+      "初期化済み"
+    ]
+  },
+  {
+    "id": "apple-watch-se2-40-gps",
+    "category": "スマートウォッチ",
+    "series": "Apple Watch SE 第2世代",
+    "name": "Apple Watch SE 第2世代 40mm GPS",
+    "aliases": [
+      "apple watch se 2",
+      "applewatch se2",
+      "apple watch se 第2世代 40mm",
+      "watch se2 40"
+    ],
+    "searchTokens": [
+      "40mm",
+      "gps",
+      "ミッドナイト",
+      "apple"
+    ],
+    "specs": {
+      "generation": "第2世代",
+      "size": "40mm",
+      "connectivity": "GPS"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 22800,
+        "max": 30800,
+        "feeRate": 0.08,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 17000,
+        "max": 23500,
+        "feeRate": 0.06,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 13500,
+        "max": 19500,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "バンド純正/社外品を記載",
+      "バッテリー状態を確認",
+      "ペアリング解除済みか記載"
+    ],
+    "titleKeywords": [
+      "40mm",
+      "GPS",
+      "動作確認済み"
+    ]
+  },
+  {
+    "id": "apple-watch-se2-44-gps",
+    "category": "スマートウォッチ",
+    "series": "Apple Watch SE 第2世代",
+    "name": "Apple Watch SE 第2世代 44mm GPS",
+    "aliases": [
+      "apple watch se 第2世代 44mm",
+      "applewatch se2 44",
+      "watch se2 44",
+      "apple watch se2 44 gps"
+    ],
+    "searchTokens": [
+      "44mm",
+      "gps",
+      "ミッドナイト",
+      "apple"
+    ],
+    "specs": {
+      "generation": "第2世代",
+      "size": "44mm",
+      "connectivity": "GPS"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 25800,
+        "max": 33800,
+        "feeRate": 0.08,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 19000,
+        "max": 25500,
+        "feeRate": 0.06,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 15000,
+        "max": 21000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "バンド純正/社外品を記載",
+      "バッテリー状態を確認",
+      "ペアリング解除済みか記載"
+    ],
+    "titleKeywords": [
+      "44mm",
+      "GPS",
+      "動作確認済み"
+    ]
+  },
+  {
+    "id": "apple-watch-se2-44-cellular",
+    "category": "スマートウォッチ",
+    "series": "Apple Watch SE 第2世代",
+    "name": "Apple Watch SE 第2世代 44mm Cellular",
+    "aliases": [
+      "apple watch se2 cellular",
+      "apple watch se 第2世代 cellular",
+      "watch se2 44 cellular"
+    ],
+    "searchTokens": [
+      "44mm",
+      "cellular",
+      "セルラー",
+      "apple"
+    ],
+    "specs": {
+      "generation": "第2世代",
+      "size": "44mm",
+      "connectivity": "Cellular"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 28800,
+        "max": 36800,
+        "feeRate": 0.08,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 21500,
+        "max": 28500,
+        "feeRate": 0.06,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 17000,
+        "max": 23500,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "セルラーモデルであることを明記",
+      "バッテリー状態を確認",
+      "ペアリング解除済みか記載"
+    ],
+    "titleKeywords": [
+      "44mm",
+      "Cellular",
+      "動作確認済み"
+    ]
+  },
+  {
+    "id": "iphone14-128",
+    "category": "スマホ",
+    "series": "iPhone 14",
+    "name": "iPhone 14 128GB SIMフリー",
+    "aliases": [
+      "iphone14",
+      "iphone 14",
+      "iphone14 128gb",
+      "iphone 14 128",
+      "アイフォン14 128gb",
+      "iphone 14 simフリー"
+    ],
+    "searchTokens": [
+      "simフリー",
+      "128gb",
+      "apple",
+      "a15",
+      "mpuf3j/a"
+    ],
+    "specs": {
+      "storage": "128GB",
+      "connectivity": "SIMフリー",
+      "generation": "iPhone 14",
+      "color": "ミッドナイト"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 70800,
+        "max": 84800,
+        "feeRate": 0.08,
+        "shipping": 750,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 54800,
+        "max": 65800,
+        "feeRate": 0.06,
+        "shipping": 750,
+        "speed": "slow",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 47000,
+        "max": 57000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "SIMロック解除済みなら記載",
+      "バッテリー最大容量を記載",
+      "フレームやカメラ周りの傷を明記"
+    ],
+    "titleKeywords": [
+      "128GB",
+      "SIMフリー",
+      "動作確認済み"
+    ]
+  },
+  {
+    "id": "airpods4-anc",
+    "category": "イヤホン",
+    "series": "AirPods 4 ANC",
+    "name": "AirPods 4 アクティブノイズキャンセリング搭載",
+    "aliases": [
+      "airpods 4 anc",
+      "airpods4 anc",
+      "airpods 4 ノイキャン",
+      "airpods 第4世代 anc"
+    ],
+    "searchTokens": [
+      "anc",
+      "アクティブノイズキャンセリング",
+      "usb-c",
+      "apple",
+      "mxp93j/a"
+    ],
+    "specs": {
+      "generation": "第4世代",
+      "connectivity": "USB-C",
+      "edition": "ANC搭載"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 20800,
+        "max": 28800,
+        "feeRate": 0.08,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 16500,
+        "max": 22800,
+        "feeRate": 0.06,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 12000,
+        "max": 17500,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "ノイズキャンセリングの動作確認",
+      "ケース・ヒンジの傷を記載",
+      "USB-Cケースであることを明記"
+    ],
+    "titleKeywords": [
+      "ANC",
+      "純正",
+      "動作良好"
+    ]
+  },
+  {
+    "id": "ipad-mini6-64-wifi",
+    "category": "タブレット",
+    "series": "iPad mini 第6世代",
+    "name": "iPad mini 第6世代 64GB Wi‑Fi",
+    "aliases": [
+      "ipad mini 6",
+      "ipadmini6",
+      "ipad mini 第6世代",
+      "ipad mini 6 64gb",
+      "ipad mini 6 wifi"
+    ],
+    "searchTokens": [
+      "wifi",
+      "wi-fi",
+      "64gb",
+      "a15",
+      "mk7m3j/a"
+    ],
+    "specs": {
+      "generation": "第6世代",
+      "storage": "64GB",
+      "connectivity": "Wi‑Fi",
+      "size": "8.3インチ"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 52800,
+        "max": 64800,
+        "feeRate": 0.08,
+        "shipping": 750,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 39800,
+        "max": 49800,
+        "feeRate": 0.06,
+        "shipping": 750,
+        "speed": "slow",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 32000,
+        "max": 41000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "Apple Pencil第2世代対応を記載",
+      "画面保護フィルム有無",
+      "Wi‑Fiモデルであることを明記"
+    ],
+    "titleKeywords": [
+      "64GB",
+      "Wi‑Fi",
+      "美品"
+    ]
+  },
+  {
+    "id": "switch-lite-yellow",
+    "category": "ゲーム",
+    "series": "Nintendo Switch Lite",
+    "name": "Nintendo Switch Lite イエロー",
+    "aliases": [
+      "switch lite",
+      "nintendo switch lite",
+      "スイッチライト",
+      "switch lite yellow",
+      "hdh-s-yazaa"
+    ],
+    "searchTokens": [
+      "lite",
+      "yellow",
+      "イエロー",
+      "hdh-s-yazaa"
+    ],
+    "specs": {
+      "generation": "Lite",
+      "color": "イエロー",
+      "edition": "HDH-S-YAZAA"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 17800,
+        "max": 23800,
+        "feeRate": 0.08,
+        "shipping": 750,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 12800,
+        "max": 17800,
+        "feeRate": 0.06,
+        "shipping": 750,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 10000,
+        "max": 14500,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "スティックのドリフト有無",
+      "画面傷の有無を明記",
+      "充電器付属有無を記載"
+    ],
+    "titleKeywords": [
+      "Lite",
+      "イエロー",
+      "初期化済み"
+    ]
+  },
+  {
+    "id": "ps5-slim-digital-fortnite",
+    "category": "ゲーム",
+    "series": "PlayStation 5 Slim デジタルエディション",
+    "name": "PlayStation 5 Slim デジタルエディション Fortnite同梱版",
+    "aliases": [
+      "ps5 fortnite",
+      "ps5 slim fortnite",
+      "ps5 digital fortnite",
+      "cfi-2000b fortnite"
+    ],
+    "searchTokens": [
+      "fortnite",
+      "cfi-2000b",
+      "デジタルエディション",
+      "sony"
+    ],
+    "specs": {
+      "generation": "Slim",
+      "edition": "Fortnite同梱版",
+      "model": "CFI-2000B"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 54800,
+        "max": 67800,
+        "feeRate": 0.08,
+        "shipping": 1200,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 46800,
+        "max": 59800,
+        "feeRate": 0.06,
+        "shipping": 1200,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 39500,
+        "max": 48500,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "コード使用済みか未使用かを明記",
+      "付属ケーブルの欠品有無",
+      "外箱の状態を記載"
+    ],
+    "titleKeywords": [
+      "Fortnite",
+      "CFI-2000B",
+      "初期化済み"
+    ]
+  },
+  {
+    "id": "apple-watch-s9-45-gps",
+    "category": "スマートウォッチ",
+    "series": "Apple Watch Series 9",
+    "name": "Apple Watch Series 9 45mm GPS",
+    "aliases": [
+      "apple watch s9",
+      "apple watch series 9",
+      "apple watch 9 45",
+      "watch s9 45 gps"
+    ],
+    "searchTokens": [
+      "45mm",
+      "gps",
+      "s9",
+      "apple",
+      "mr9a3j/a"
+    ],
+    "specs": {
+      "generation": "Series 9",
+      "size": "45mm",
+      "connectivity": "GPS"
+    },
+    "market": {
+      "yahooShopping": {
+        "min": 40800,
+        "max": 53800,
+        "feeRate": 0.08,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "rakuma": {
+        "min": 31500,
+        "max": 41500,
+        "feeRate": 0.06,
+        "shipping": 450,
+        "speed": "medium",
+        "effort": "medium"
+      },
+      "buyback": {
+        "min": 25000,
+        "max": 33000,
+        "feeRate": 0.0,
+        "shipping": 0,
+        "speed": "fast",
+        "effort": "low"
+      }
+    },
+    "descriptionHints": [
+      "バンド純正/社外品を記載",
+      "バッテリー状態を確認",
+      "ペアリング解除済みか記載"
+    ],
+    "titleKeywords": [
+      "45mm",
+      "GPS",
+      "動作確認済み"
+    ]
+  }
+]

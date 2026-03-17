@@ -1,0 +1,492 @@
+{
+  "janpara_buyback": {
+    "iphone13-128": [
+      {
+        "title": "iPhone 13 128GB SIMフリー MLIH3J/A",
+        "unusedPrice": 47000,
+        "usedMax": 42000,
+        "url": "https://example.local/janpara/iphone13-128"
+      }
+    ],
+    "airpodspro2-usbc": [
+      {
+        "title": "AirPods Pro 第2世代 USB-C MTJV3J/A",
+        "unusedPrice": 22500,
+        "usedMax": 16500,
+        "url": "https://example.local/janpara/airpodspro2-usbc"
+      }
+    ],
+    "switch-oled-white": [
+      {
+        "title": "Nintendo Switch 有機ELモデル ホワイト HEG-S-KAAAA",
+        "unusedPrice": 27500,
+        "usedMax": 23000,
+        "url": "https://example.local/janpara/switch-oled-white"
+      }
+    ],
+    "ps5-slim-standard": [
+      {
+        "title": "PlayStation 5 Slim CFI-2000A",
+        "unusedPrice": 52000,
+        "usedMax": 46000,
+        "url": "https://example.local/janpara/ps5-slim-standard"
+      }
+    ],
+    "iphone14-128": [
+      {
+        "title": "iPhone 14 128GB SIMフリー MPUF3J/A",
+        "unusedPrice": 56000,
+        "usedMax": 50500,
+        "url": "https://example.local/janpara/iphone14-128"
+      }
+    ],
+    "airpodspro2-lightning": [
+      {
+        "title": "AirPods Pro 第2世代 Lightning MQD83J/A",
+        "unusedPrice": 20500,
+        "usedMax": 15000,
+        "url": "https://example.local/janpara/airpodspro2-lightning"
+      }
+    ],
+    "ipad-air5-64-wifi": [
+      {
+        "title": "iPad Air 第5世代 64GB Wi-Fi MM9C3J/A",
+        "unusedPrice": 51500,
+        "usedMax": 45500,
+        "url": "https://example.local/janpara/ipad-air5-64-wifi"
+      }
+    ],
+    "switch-oled-neon": [
+      {
+        "title": "Nintendo Switch 有機ELモデル ネオン HEG-S-KABAA",
+        "unusedPrice": 26800,
+        "usedMax": 22200,
+        "url": "https://example.local/janpara/switch-oled-neon"
+      }
+    ],
+    "ps5-slim-digital": [
+      {
+        "title": "PlayStation 5 Slim デジタルエディション CFI-2000B",
+        "unusedPrice": 47000,
+        "usedMax": 42500,
+        "url": "https://example.local/janpara/ps5-slim-digital"
+      }
+    ],
+    "apple-watch-se2-44-gps": [
+      {
+        "title": "Apple Watch SE 第2世代 44mm GPS MREA3J/A",
+        "unusedPrice": 23500,
+        "usedMax": 18500,
+        "url": "https://example.local/janpara/apple-watch-se2-44-gps"
+      }
+    ]
+  },
+  "yahoo_closed": {
+    "iphone13-128": [
+      {
+        "title": "iPhone 13 128GB SIMフリー ミッドナイト",
+        "price": 49800,
+        "url": "https://example.local/yahoo/iphone13-1",
+        "condition": "used"
+      },
+      {
+        "title": "iPhone13 128GB sim free 美品",
+        "price": 51200,
+        "url": "https://example.local/yahoo/iphone13-2",
+        "condition": "used"
+      },
+      {
+        "title": "Apple iPhone 13 128GB MLIH3J/A SIMフリー",
+        "price": 48600,
+        "url": "https://example.local/yahoo/iphone13-3",
+        "condition": "used"
+      },
+      {
+        "title": "iPhone 13 128GB SIMフリー バッテリー88%",
+        "price": 47400,
+        "url": "https://example.local/yahoo/iphone13-4",
+        "condition": "used"
+      },
+      {
+        "title": "iPhone 13 128GB MLIH3J/A スターライト",
+        "price": 50300,
+        "url": "https://example.local/yahoo/iphone13-5",
+        "condition": "used"
+      },
+      {
+        "title": "iPhone 13 128GB 本体のみ",
+        "price": 47200,
+        "url": "https://example.local/yahoo/iphone13-6",
+        "condition": "used"
+      },
+      {
+        "title": "iPhone 13 mini 128GB SIMフリー",
+        "price": 39800,
+        "url": "https://example.local/yahoo/iphone13-7",
+        "condition": "used"
+      },
+      {
+        "title": "iPhone 13 128GB 空箱",
+        "price": 1800,
+        "url": "https://example.local/yahoo/iphone13-8",
+        "condition": "used"
+      },
+      {
+        "title": "iPhone 13 128GB ジャンク",
+        "price": 21000,
+        "url": "https://example.local/yahoo/iphone13-9",
+        "condition": "junk"
+      }
+    ],
+    "airpodspro2-usbc": [
+      {
+        "title": "AirPods Pro 第2世代 USB-C MTJV3J/A",
+        "price": 18800,
+        "url": "https://example.local/yahoo/airpods-1",
+        "condition": "used"
+      },
+      {
+        "title": "AirPods Pro 2 USB-C 純正",
+        "price": 19600,
+        "url": "https://example.local/yahoo/airpods-2",
+        "condition": "used"
+      },
+      {
+        "title": "AirPods Pro 第2世代 MTJV3J/A 本体・ケース",
+        "price": 19100,
+        "url": "https://example.local/yahoo/airpods-3",
+        "condition": "used"
+      },
+      {
+        "title": "AirPods Pro 第2世代 USB-C 付属品あり",
+        "price": 20100,
+        "url": "https://example.local/yahoo/airpods-4",
+        "condition": "used"
+      },
+      {
+        "title": "AirPods Pro 第2世代 ケースのみ USB-C",
+        "price": 4900,
+        "url": "https://example.local/yahoo/airpods-5",
+        "condition": "used"
+      },
+      {
+        "title": "AirPods Pro 2 右耳のみ",
+        "price": 5300,
+        "url": "https://example.local/yahoo/airpods-6",
+        "condition": "used"
+      },
+      {
+        "title": "AirPods Pro 第2世代 USB-C 本体",
+        "price": 20100,
+        "url": "https://example.local/yahoo/airpods-7",
+        "condition": "used"
+      },
+      {
+        "title": "AirPods Pro 第2世代 Lightning MQD83J/A",
+        "price": 14200,
+        "url": "https://example.local/yahoo/airpods-8",
+        "condition": "used"
+      }
+    ],
+    "switch-oled-white": [
+      {
+        "title": "Nintendo Switch 有機EL ホワイト HEG-S-KAAAA",
+        "price": 28600,
+        "url": "https://example.local/yahoo/switch-1",
+        "condition": "used"
+      },
+      {
+        "title": "Switch OLED ホワイト 本体のみ",
+        "price": 25400,
+        "url": "https://example.local/yahoo/switch-2",
+        "condition": "used"
+      },
+      {
+        "title": "Switch 有機EL ドックのみ ホワイト",
+        "price": 4200,
+        "url": "https://example.local/yahoo/switch-3",
+        "condition": "used"
+      },
+      {
+        "title": "Nintendo Switch 有機EL ホワイト 美品",
+        "price": 29500,
+        "url": "https://example.local/yahoo/switch-4",
+        "condition": "used"
+      }
+    ],
+    "ps5-slim-standard": [
+      {
+        "title": "PS5 Slim CFI-2000A ディスクドライブ搭載",
+        "price": 56800,
+        "url": "https://example.local/yahoo/ps5-1",
+        "condition": "used"
+      },
+      {
+        "title": "PlayStation 5 Slim CFI-2000A 本体のみ",
+        "price": 53500,
+        "url": "https://example.local/yahoo/ps5-2",
+        "condition": "used"
+      },
+      {
+        "title": "PS5 Slim コントローラーのみ",
+        "price": 5800,
+        "url": "https://example.local/yahoo/ps5-3",
+        "condition": "used"
+      },
+      {
+        "title": "PS5 Slim CFI-2000A 美品",
+        "price": 57900,
+        "url": "https://example.local/yahoo/ps5-4",
+        "condition": "used"
+      }
+    ],
+    "iphone14-128": [
+      {
+        "title": "Apple iPhone 14 128GB MPUF3J/A SIMフリー",
+        "price": 61200,
+        "url": "https://example.local/yahoo/iphone14-1",
+        "condition": "used"
+      },
+      {
+        "title": "iPhone 14 128GB SIMフリー ミッドナイト",
+        "price": 59800,
+        "url": "https://example.local/yahoo/iphone14-2",
+        "condition": "used"
+      },
+      {
+        "title": "iPhone 14 Plus 128GB SIMフリー",
+        "price": 66500,
+        "url": "https://example.local/yahoo/iphone14-3",
+        "condition": "used"
+      },
+      {
+        "title": "iPhone 14 128GB 本体のみ",
+        "price": 57100,
+        "url": "https://example.local/yahoo/iphone14-4",
+        "condition": "used"
+      }
+    ],
+    "airpodspro2-lightning": [
+      {
+        "title": "AirPods Pro 第2世代 Lightning MQD83J/A",
+        "price": 17100,
+        "url": "https://example.local/yahoo/airpodsl-1",
+        "condition": "used"
+      },
+      {
+        "title": "AirPods Pro 2 Lightning 純正",
+        "price": 16800,
+        "url": "https://example.local/yahoo/airpodsl-2",
+        "condition": "used"
+      },
+      {
+        "title": "AirPods Pro 第2世代 ケースのみ Lightning",
+        "price": 4600,
+        "url": "https://example.local/yahoo/airpodsl-3",
+        "condition": "used"
+      }
+    ],
+    "ipad-air5-64-wifi": [
+      {
+        "title": "iPad Air 第5世代 64GB Wi‑Fi MM9C3J/A",
+        "price": 54800,
+        "url": "https://example.local/yahoo/ipadair5-1",
+        "condition": "used"
+      },
+      {
+        "title": "iPad Air 5 64GB WiFi 美品",
+        "price": 53200,
+        "url": "https://example.local/yahoo/ipadair5-2",
+        "condition": "used"
+      },
+      {
+        "title": "iPad Air 第5世代 256GB Wi‑Fi",
+        "price": 69800,
+        "url": "https://example.local/yahoo/ipadair5-3",
+        "condition": "used"
+      }
+    ],
+    "switch-oled-neon": [
+      {
+        "title": "Nintendo Switch 有機EL ネオン HEG-S-KABAA",
+        "price": 27900,
+        "url": "https://example.local/yahoo/switchn-1",
+        "condition": "used"
+      },
+      {
+        "title": "Switch OLED ネオン 本体のみ",
+        "price": 24800,
+        "url": "https://example.local/yahoo/switchn-2",
+        "condition": "used"
+      },
+      {
+        "title": "Switch 有機EL ネオン ドックのみ",
+        "price": 3900,
+        "url": "https://example.local/yahoo/switchn-3",
+        "condition": "used"
+      }
+    ],
+    "ps5-slim-digital": [
+      {
+        "title": "PS5 Slim デジタルエディション CFI-2000B",
+        "price": 52200,
+        "url": "https://example.local/yahoo/ps5d-1",
+        "condition": "used"
+      },
+      {
+        "title": "PlayStation 5 Slim CFI-2000B 本体のみ",
+        "price": 49800,
+        "url": "https://example.local/yahoo/ps5d-2",
+        "condition": "used"
+      },
+      {
+        "title": "PS5 Slim デジタル コントローラーのみ",
+        "price": 5900,
+        "url": "https://example.local/yahoo/ps5d-3",
+        "condition": "used"
+      }
+    ],
+    "apple-watch-se2-44-gps": [
+      {
+        "title": "Apple Watch SE 第2世代 44mm GPS MREA3J/A",
+        "price": 22100,
+        "url": "https://example.local/yahoo/watch-1",
+        "condition": "used"
+      },
+      {
+        "title": "Apple Watch SE2 44mm GPS ミッドナイト",
+        "price": 21400,
+        "url": "https://example.local/yahoo/watch-2",
+        "condition": "used"
+      },
+      {
+        "title": "Apple Watch SE 第2世代 40mm GPS",
+        "price": 18900,
+        "url": "https://example.local/yahoo/watch-3",
+        "condition": "used"
+      }
+    ]
+  },
+  "rakuma": {
+    "iphone13-128": [
+      {
+        "title": "iPhone 13 128GB SIMフリー",
+        "price": 52800,
+        "url": "https://example.local/rakuma/iphone13-1"
+      },
+      {
+        "title": "iPhone13 128GB 本体のみ",
+        "price": 48900,
+        "url": "https://example.local/rakuma/iphone13-2"
+      }
+    ],
+    "airpodspro2-usbc": [
+      {
+        "title": "AirPods Pro 第2世代 USB-C",
+        "price": 20400,
+        "url": "https://example.local/rakuma/airpods-1"
+      },
+      {
+        "title": "AirPods Pro 2 USB-C ケースのみ",
+        "price": 5200,
+        "url": "https://example.local/rakuma/airpods-2"
+      }
+    ],
+    "switch-oled-white": [
+      {
+        "title": "Switch 有機EL ホワイト",
+        "price": 29800,
+        "url": "https://example.local/rakuma/switch-1"
+      },
+      {
+        "title": "Switch 有機EL ホワイト ドックのみ",
+        "price": 3800,
+        "url": "https://example.local/rakuma/switch-2"
+      }
+    ],
+    "ps5-slim-standard": [
+      {
+        "title": "PS5 Slim CFI-2000A",
+        "price": 59200,
+        "url": "https://example.local/rakuma/ps5-1"
+      },
+      {
+        "title": "PS5 Slim CFI-2000A コントローラーのみ",
+        "price": 6200,
+        "url": "https://example.local/rakuma/ps5-2"
+      }
+    ],
+    "iphone14-128": [
+      {
+        "title": "iPhone 14 128GB SIMフリー",
+        "price": 62800,
+        "url": "https://example.local/rakuma/iphone14-1"
+      },
+      {
+        "title": "iPhone 14 128GB 本体のみ",
+        "price": 58400,
+        "url": "https://example.local/rakuma/iphone14-2"
+      }
+    ],
+    "airpodspro2-lightning": [
+      {
+        "title": "AirPods Pro 第2世代 Lightning",
+        "price": 18200,
+        "url": "https://example.local/rakuma/airpodsl-1"
+      },
+      {
+        "title": "AirPods Pro 2 Lightning ケースのみ",
+        "price": 4800,
+        "url": "https://example.local/rakuma/airpodsl-2"
+      }
+    ],
+    "ipad-air5-64-wifi": [
+      {
+        "title": "iPad Air 第5世代 64GB Wi‑Fi",
+        "price": 56800,
+        "url": "https://example.local/rakuma/ipadair5-1"
+      },
+      {
+        "title": "iPad Air 5 64GB WiFi 本体のみ",
+        "price": 52100,
+        "url": "https://example.local/rakuma/ipadair5-2"
+      }
+    ],
+    "switch-oled-neon": [
+      {
+        "title": "Switch 有機EL ネオン",
+        "price": 28900,
+        "url": "https://example.local/rakuma/switchn-1"
+      },
+      {
+        "title": "Switch 有機EL ネオン ドックのみ",
+        "price": 3700,
+        "url": "https://example.local/rakuma/switchn-2"
+      }
+    ],
+    "ps5-slim-digital": [
+      {
+        "title": "PS5 Slim CFI-2000B デジタルエディション",
+        "price": 53800,
+        "url": "https://example.local/rakuma/ps5d-1"
+      },
+      {
+        "title": "PS5 Slim CFI-2000B コントローラーのみ",
+        "price": 6100,
+        "url": "https://example.local/rakuma/ps5d-2"
+      }
+    ],
+    "apple-watch-se2-44-gps": [
+      {
+        "title": "Apple Watch SE 第2世代 44mm GPS",
+        "price": 22800,
+        "url": "https://example.local/rakuma/watch-1"
+      },
+      {
+        "title": "Apple Watch SE2 44mm GPS バンドのみ",
+        "price": 3200,
+        "url": "https://example.local/rakuma/watch-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,683 @@
+[
+  {
+    "id": "iphone13-128",
+    "category": "smartphone",
+    "brand": "Apple",
+    "series": "iPhone 13",
+    "displayName": "iPhone 13 128GB SIMフリー",
+    "canonicalModel": "MLIH3J/A",
+    "makerModel": "A2631",
+    "storage": "128GB",
+    "connectivity": "SIMフリー",
+    "color": "ミッドナイト",
+    "searchKeywords": [
+      "iphone 13",
+      "iphone13",
+      "128gb",
+      "simフリー",
+      "mlih3j/a"
+    ],
+    "excludeKeywords": [
+      "空箱",
+      "箱のみ",
+      "部品",
+      "画面のみ",
+      "ロックあり",
+      "残債あり",
+      "ジャンク",
+      "iphone 13 mini",
+      "iphone13mini",
+      "iphone 13 pro",
+      "iphone13pro",
+      "iphone 13 pro max",
+      "iphone13promax"
+    ],
+    "requiredKeywords": [
+      "iphone 13",
+      "128gb"
+    ],
+    "preferredKeywords": [
+      "simフリー",
+      "mlih3j/a",
+      "mlih3ja"
+    ]
+  },
+  {
+    "id": "airpodspro2-usbc",
+    "category": "earbuds",
+    "brand": "Apple",
+    "series": "AirPods Pro 第2世代",
+    "displayName": "AirPods Pro 第2世代 USB-Cケース",
+    "canonicalModel": "MTJV3J/A",
+    "makerModel": "A3047",
+    "storage": null,
+    "connectivity": "USB-C",
+    "color": null,
+    "searchKeywords": [
+      "airpods pro 第2世代",
+      "airpods pro 2",
+      "usb-c",
+      "usbc",
+      "mtjv3j/a"
+    ],
+    "excludeKeywords": [
+      "ケースのみ",
+      "充電ケースのみ",
+      "左耳",
+      "右耳",
+      "片耳",
+      "空箱",
+      "イヤーチップ",
+      "ジャンク",
+      "lightning",
+      "mqd83j/a",
+      "mqd83ja"
+    ],
+    "requiredKeywords": [
+      "airpods pro",
+      "usb-c"
+    ],
+    "preferredKeywords": [
+      "第2世代",
+      "mtjv3j/a",
+      "mtjv3ja",
+      "ケース",
+      "付属品あり",
+      "本体・ケース"
+    ]
+  },
+  {
+    "id": "switch-oled-white",
+    "category": "game-console",
+    "brand": "Nintendo",
+    "series": "Nintendo Switch 有機ELモデル",
+    "displayName": "Nintendo Switch 有機ELモデル ホワイト",
+    "canonicalModel": "HEG-S-KAAAA",
+    "makerModel": null,
+    "storage": null,
+    "connectivity": null,
+    "color": "ホワイト",
+    "searchKeywords": [
+      "switch oled",
+      "switch 有機el",
+      "heg-s-kaaaa",
+      "ホワイト"
+    ],
+    "excludeKeywords": [
+      "箱のみ",
+      "ドックのみ",
+      "コントローラーのみ",
+      "ソフトのみ",
+      "ジャンク"
+    ]
+  },
+  {
+    "id": "ps5-slim-standard",
+    "category": "game-console",
+    "brand": "Sony",
+    "series": "PlayStation 5 Slim",
+    "displayName": "PlayStation 5 Slim CFI-2000A",
+    "canonicalModel": "CFI-2000A",
+    "makerModel": null,
+    "storage": "1TB",
+    "connectivity": null,
+    "color": "ホワイト",
+    "searchKeywords": [
+      "ps5 slim",
+      "playstation 5 slim",
+      "cfi-2000a",
+      "disc",
+      "ディスクドライブ"
+    ],
+    "excludeKeywords": [
+      "箱のみ",
+      "コントローラーのみ",
+      "ディスクドライブのみ",
+      "本体カバー",
+      "ジャンク"
+    ]
+  },
+  {
+    "id": "iphone14-128",
+    "category": "smartphone",
+    "brand": "Apple",
+    "series": "iPhone 14",
+    "displayName": "iPhone 14 128GB SIMフリー",
+    "canonicalModel": "MPUF3J/A",
+    "makerModel": "A2881",
+    "storage": "128GB",
+    "connectivity": "SIMフリー",
+    "color": "ミッドナイト",
+    "searchKeywords": [
+      "iphone 14",
+      "iphone14",
+      "128gb",
+      "simフリー",
+      "mpuf3j/a"
+    ],
+    "excludeKeywords": [
+      "空箱",
+      "箱のみ",
+      "部品",
+      "画面のみ",
+      "ロックあり",
+      "残債あり",
+      "ジャンク",
+      "iphone 14 plus",
+      "iphone14plus",
+      "iphone 14 pro",
+      "iphone14pro",
+      "iphone 14 pro max",
+      "iphone14promax"
+    ],
+    "requiredKeywords": [
+      "iphone 14",
+      "128gb"
+    ],
+    "preferredKeywords": [
+      "simフリー",
+      "mpuf3j/a",
+      "mpuf3ja"
+    ]
+  },
+  {
+    "id": "airpodspro2-lightning",
+    "category": "earbuds",
+    "brand": "Apple",
+    "series": "AirPods Pro 第2世代",
+    "displayName": "AirPods Pro 第2世代 Lightningケース",
+    "canonicalModel": "MQD83J/A",
+    "makerModel": "A2699",
+    "storage": null,
+    "connectivity": "Lightning",
+    "color": null,
+    "searchKeywords": [
+      "airpods pro 第2世代",
+      "airpods pro 2",
+      "lightning",
+      "mqd83j/a"
+    ],
+    "excludeKeywords": [
+      "ケースのみ",
+      "充電ケースのみ",
+      "左耳",
+      "右耳",
+      "片耳",
+      "空箱",
+      "イヤーチップ",
+      "ジャンク",
+      "usb-c",
+      "usbc",
+      "mtjv3j/a",
+      "mtjv3ja"
+    ],
+    "requiredKeywords": [
+      "airpods pro",
+      "lightning"
+    ],
+    "preferredKeywords": [
+      "第2世代",
+      "mqd83j/a",
+      "mqd83ja",
+      "ケース",
+      "付属品あり"
+    ]
+  },
+  {
+    "id": "ipad-air5-64-wifi",
+    "category": "tablet",
+    "brand": "Apple",
+    "series": "iPad Air 第5世代",
+    "displayName": "iPad Air 第5世代 64GB Wi‑Fi",
+    "canonicalModel": "MM9C3J/A",
+    "makerModel": "A2588",
+    "storage": "64GB",
+    "connectivity": "Wi‑Fi",
+    "color": "スペースグレイ",
+    "searchKeywords": [
+      "ipad air 5",
+      "ipad air 第5世代",
+      "64gb",
+      "wifi",
+      "mm9c3j/a"
+    ],
+    "excludeKeywords": [
+      "箱のみ",
+      "カバーのみ",
+      "ペンのみ",
+      "ジャンク",
+      "cellular",
+      "セルラー",
+      "256gb"
+    ],
+    "requiredKeywords": [
+      "ipad air",
+      "64gb"
+    ],
+    "preferredKeywords": [
+      "wifi",
+      "wi-fi",
+      "mm9c3j/a",
+      "m1"
+    ]
+  },
+  {
+    "id": "switch-oled-neon",
+    "category": "game-console",
+    "brand": "Nintendo",
+    "series": "Nintendo Switch 有機ELモデル",
+    "displayName": "Nintendo Switch 有機ELモデル ネオン",
+    "canonicalModel": "HEG-S-KABAA",
+    "makerModel": null,
+    "storage": null,
+    "connectivity": null,
+    "color": "ネオン",
+    "searchKeywords": [
+      "switch oled",
+      "switch 有機el",
+      "heg-s-kabaa",
+      "ネオン"
+    ],
+    "excludeKeywords": [
+      "箱のみ",
+      "ドックのみ",
+      "コントローラーのみ",
+      "ソフトのみ",
+      "ジャンク"
+    ]
+  },
+  {
+    "id": "ps5-slim-digital",
+    "category": "game-console",
+    "brand": "Sony",
+    "series": "PlayStation 5 Slim デジタルエディション",
+    "displayName": "PlayStation 5 Slim デジタルエディション CFI-2000B",
+    "canonicalModel": "CFI-2000B",
+    "makerModel": null,
+    "storage": "1TB",
+    "connectivity": null,
+    "color": "ホワイト",
+    "searchKeywords": [
+      "ps5 slim digital",
+      "ps5 digital edition",
+      "cfi-2000b",
+      "digital",
+      "デジタルエディション"
+    ],
+    "excludeKeywords": [
+      "箱のみ",
+      "コントローラーのみ",
+      "ディスクドライブのみ",
+      "本体カバー",
+      "ジャンク"
+    ]
+  },
+  {
+    "id": "apple-watch-se2-44-gps",
+    "category": "smartwatch",
+    "brand": "Apple",
+    "series": "Apple Watch SE 第2世代",
+    "displayName": "Apple Watch SE 第2世代 44mm GPS",
+    "canonicalModel": "MREA3J/A",
+    "makerModel": "A2723",
+    "storage": null,
+    "connectivity": "GPS",
+    "color": "ミッドナイト",
+    "searchKeywords": [
+      "apple watch se 2",
+      "apple watch se 第2世代",
+      "44mm",
+      "gps",
+      "mrea3j/a"
+    ],
+    "excludeKeywords": [
+      "バンドのみ",
+      "充電ケーブルのみ",
+      "ケースのみ",
+      "ジャンク",
+      "40mm",
+      "cellular",
+      "セルラー"
+    ],
+    "requiredKeywords": [
+      "apple watch se",
+      "44mm"
+    ],
+    "preferredKeywords": [
+      "gps",
+      "第2世代",
+      "mrea3j/a"
+    ]
+  },
+  {
+    "id": "iphone13-256",
+    "category": "smartphone",
+    "brand": "Apple",
+    "series": "iPhone 13",
+    "displayName": "iPhone 13 256GB SIMフリー",
+    "canonicalModel": "MLNK3J/A",
+    "makerModel": null,
+    "storage": "256GB",
+    "connectivity": "SIMフリー",
+    "color": "スターライト",
+    "searchKeywords": [
+      "iphone 13 256",
+      "iphone13 256gb",
+      "simフリー",
+      "256gb",
+      "apple"
+    ],
+    "excludeKeywords": [],
+    "requiredKeywords": [
+      "iPhone 13",
+      "256GB"
+    ],
+    "preferredKeywords": [
+      "SIMフリー",
+      "スターライト"
+    ]
+  },
+  {
+    "id": "iphone13mini-128",
+    "category": "smartphone",
+    "brand": "Apple",
+    "series": "iPhone 13 mini",
+    "displayName": "iPhone 13 mini 128GB SIMフリー",
+    "canonicalModel": null,
+    "makerModel": null,
+    "storage": "128GB",
+    "connectivity": "SIMフリー",
+    "color": null,
+    "searchKeywords": [
+      "iphone 13 mini 128",
+      "iphone13 mini",
+      "mini",
+      "simフリー",
+      "128gb"
+    ],
+    "excludeKeywords": [],
+    "requiredKeywords": [
+      "iPhone 13 mini",
+      "128GB"
+    ],
+    "preferredKeywords": [
+      "SIMフリー",
+      "5.4インチ"
+    ]
+  },
+  {
+    "id": "ipad-air5-256-wifi",
+    "category": "tablet",
+    "brand": null,
+    "series": "iPad Air 第5世代",
+    "displayName": "iPad Air 第5世代 256GB Wi‑Fi",
+    "canonicalModel": null,
+    "makerModel": null,
+    "storage": "256GB",
+    "connectivity": "Wi‑Fi",
+    "color": null,
+    "searchKeywords": [
+      "ipad air 5 256gb",
+      "ipadair5 256 wifi",
+      "wifi",
+      "wi-fi",
+      "256gb"
+    ],
+    "excludeKeywords": [],
+    "requiredKeywords": [
+      "iPad Air 第5世代",
+      "256GB"
+    ],
+    "preferredKeywords": [
+      "Wi‑Fi"
+    ]
+  },
+  {
+    "id": "ipad-air5-64-cellular",
+    "category": "tablet",
+    "brand": null,
+    "series": "iPad Air 第5世代",
+    "displayName": "iPad Air 第5世代 64GB Cellular",
+    "canonicalModel": null,
+    "makerModel": null,
+    "storage": "64GB",
+    "connectivity": "Cellular",
+    "color": null,
+    "searchKeywords": [
+      "ipad air 5 cellular 64",
+      "ipad air 第5世代 cellular",
+      "cellular",
+      "セルラー",
+      "64gb"
+    ],
+    "excludeKeywords": [],
+    "requiredKeywords": [
+      "iPad Air 第5世代",
+      "64GB"
+    ],
+    "preferredKeywords": [
+      "Cellular"
+    ]
+  },
+  {
+    "id": "ipad-air5-256-cellular",
+    "category": "tablet",
+    "brand": null,
+    "series": "iPad Air 第5世代",
+    "displayName": "iPad Air 第5世代 256GB Cellular",
+    "canonicalModel": null,
+    "makerModel": null,
+    "storage": "256GB",
+    "connectivity": "Cellular",
+    "color": null,
+    "searchKeywords": [
+      "ipad air 5 256gb cellular",
+      "ipad air 第5世代 256 cellular",
+      "cellular",
+      "セルラー",
+      "256gb"
+    ],
+    "excludeKeywords": [],
+    "requiredKeywords": [
+      "iPad Air 第5世代",
+      "256GB"
+    ],
+    "preferredKeywords": [
+      "Cellular"
+    ]
+  },
+  {
+    "id": "apple-watch-se2-40-gps",
+    "category": "smartwatch",
+    "brand": "Apple",
+    "series": "Apple Watch SE 第2世代",
+    "displayName": "Apple Watch SE 第2世代 40mm GPS",
+    "canonicalModel": null,
+    "makerModel": null,
+    "storage": null,
+    "connectivity": "GPS",
+    "color": null,
+    "searchKeywords": [
+      "apple watch se 2",
+      "applewatch se2",
+      "40mm",
+      "gps",
+      "ミッドナイト"
+    ],
+    "excludeKeywords": [],
+    "requiredKeywords": [
+      "Apple Watch SE 第2世代",
+      "GPS"
+    ],
+    "preferredKeywords": [
+      "GPS",
+      "40mm"
+    ]
+  },
+  {
+    "id": "apple-watch-se2-44-cellular",
+    "category": "smartwatch",
+    "brand": "Apple",
+    "series": "Apple Watch SE 第2世代",
+    "displayName": "Apple Watch SE 第2世代 44mm Cellular",
+    "canonicalModel": null,
+    "makerModel": null,
+    "storage": null,
+    "connectivity": "Cellular",
+    "color": null,
+    "searchKeywords": [
+      "apple watch se2 cellular",
+      "apple watch se 第2世代 cellular",
+      "44mm",
+      "cellular",
+      "セルラー"
+    ],
+    "excludeKeywords": [],
+    "requiredKeywords": [
+      "Apple Watch SE 第2世代",
+      "Cellular"
+    ],
+    "preferredKeywords": [
+      "Cellular",
+      "44mm"
+    ]
+  },
+  {
+    "id": "airpods4-anc",
+    "category": "earbuds",
+    "brand": "Apple",
+    "series": "AirPods 4 ANC",
+    "displayName": "AirPods 4 アクティブノイズキャンセリング搭載",
+    "canonicalModel": "MXP93J/A",
+    "makerModel": null,
+    "storage": null,
+    "connectivity": "USB-C",
+    "color": null,
+    "searchKeywords": [
+      "airpods 4 anc",
+      "airpods4 anc",
+      "anc",
+      "アクティブノイズキャンセリング",
+      "usb-c"
+    ],
+    "excludeKeywords": [],
+    "requiredKeywords": [
+      "AirPods 4 ANC",
+      "USB-C"
+    ],
+    "preferredKeywords": [
+      "USB-C",
+      "ANC搭載"
+    ]
+  },
+  {
+    "id": "ipad-mini6-64-wifi",
+    "category": "tablet",
+    "brand": null,
+    "series": "iPad mini 第6世代",
+    "displayName": "iPad mini 第6世代 64GB Wi‑Fi",
+    "canonicalModel": "MK7M3J/A",
+    "makerModel": null,
+    "storage": "64GB",
+    "connectivity": "Wi‑Fi",
+    "color": null,
+    "searchKeywords": [
+      "ipad mini 6",
+      "ipadmini6",
+      "wifi",
+      "wi-fi",
+      "64gb"
+    ],
+    "excludeKeywords": [],
+    "requiredKeywords": [
+      "iPad mini 第6世代",
+      "64GB"
+    ],
+    "preferredKeywords": [
+      "Wi‑Fi",
+      "8.3インチ"
+    ]
+  },
+  {
+    "id": "switch-lite-yellow",
+    "category": "game-console",
+    "brand": null,
+    "series": "Nintendo Switch Lite",
+    "displayName": "Nintendo Switch Lite イエロー",
+    "canonicalModel": "HDH-S-YAZAA",
+    "makerModel": null,
+    "storage": null,
+    "connectivity": null,
+    "color": "イエロー",
+    "searchKeywords": [
+      "switch lite",
+      "nintendo switch lite",
+      "lite",
+      "yellow",
+      "イエロー"
+    ],
+    "excludeKeywords": [],
+    "requiredKeywords": [
+      "Nintendo Switch Lite"
+    ],
+    "preferredKeywords": [
+      "HDH-S-YAZAA",
+      "イエロー"
+    ]
+  },
+  {
+    "id": "ps5-slim-digital-fortnite",
+    "category": "game-console",
+    "brand": "Sony",
+    "series": "PlayStation 5 Slim デジタルエディション",
+    "displayName": "PlayStation 5 Slim デジタルエディション Fortnite同梱版",
+    "canonicalModel": "CFI-2000B",
+    "makerModel": null,
+    "storage": null,
+    "connectivity": null,
+    "color": null,
+    "searchKeywords": [
+      "ps5 fortnite",
+      "ps5 slim fortnite",
+      "fortnite",
+      "cfi-2000b",
+      "デジタルエディション"
+    ],
+    "excludeKeywords": [],
+    "requiredKeywords": [
+      "PlayStation 5 Slim デジタルエディション"
+    ],
+    "preferredKeywords": [
+      "Fortnite同梱版",
+      "CFI-2000B"
+    ]
+  },
+  {
+    "id": "apple-watch-s9-45-gps",
+    "category": "smartwatch",
+    "brand": "Apple",
+    "series": "Apple Watch Series 9",
+    "displayName": "Apple Watch Series 9 45mm GPS",
+    "canonicalModel": "MR9A3J/A",
+    "makerModel": null,
+    "storage": null,
+    "connectivity": "GPS",
+    "color": null,
+    "searchKeywords": [
+      "apple watch s9",
+      "apple watch series 9",
+      "45mm",
+      "gps",
+      "s9"
+    ],
+    "excludeKeywords": [],
+    "requiredKeywords": [
+      "Apple Watch Series 9",
+      "GPS"
+    ],
+    "preferredKeywords": [
+      "GPS",
+      "45mm"
+    ]
+  }
+]
