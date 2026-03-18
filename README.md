@@ -1,16 +1,34 @@
-# Resell Assist MVP
+# 買取比較.net
 
-中古売却アシストの軽量MVPです。
+商品名を入れると、**標準相場 / すぐ売る価格 / おすすめ販路** をすぐ確認できる軽量Webアプリです。
+
+公開版:
+- https://kaitorihikaku.net
 
 ## できること
-- 商品名から候補を出す
-- SKU辞書 + price snapshot を使って代表10SKUの相場データを表示
-- 高く売る / 早く売る / 手間を減らす の目的別に販路提案
-- 早売れ / 標準 / 強気 の価格提案
-- 出品タイトル / 説明文の自動生成
-- 出品前チェックリストと関連アフィリエイト枠の表示
+- 商品名・型番から候補を検索
+- Yahooオークション / ラクマ / じゃんぱらをもとに相場表示
+- **標準相場** / **すぐ売る価格** / **強気価格** を表示
+- おすすめ販路を提案
+- 出品タイトル / 説明文のたたき台を生成
+- live / fallback の状況と信頼度の目安を表示
 
-## 起動
+## PDM判断メモ
+- 方向性メモ: `PDM_STRATEGY_2026-03-18.md`
+- MVPは「中古売却の意思決定を助ける比較サイト」として進める
+- 収益化の初手は、買取送客 + 周辺アフィリエイト想定
+
+## 対応カテゴリ
+- iPhone
+- AirPods
+- iPad
+- Nintendo Switch
+- PS5
+- Apple Watch
+
+現状は特に **iPhone中心** に精度を強化しています。
+
+## ローカル起動
 ```bash
 cd resell-assist-mvp
 npm run start
@@ -18,28 +36,26 @@ npm run start
 
 ブラウザで `http://localhost:4173` を開いてください。
 
-## JSONスナップショット生成
+## スナップショット更新
 ```bash
 npm run snapshot
+
 # 実サイト取得を試す場合
 RESALE_USE_LIVE_FETCH=1 npm run snapshot
 ```
 
 生成先:
 - `output/price-snapshots.json`
-- `output/price-history.json`（任意。過去snapshotを productId ごとに積むと価格推移アラート表示に使える）
+- `output/price-history.json`（任意）
 
-現状:
-- `data/products-snapshot.json` にMVP対象SKUを10件定義（iPhone / AirPods / iPad / Switch / PS5 / Apple Watch）
-- `data/noise-rules.json` に共通/カテゴリ別ノイズルールを定義
-- `data/source-fixtures.json` に じゃんぱら買取 / Yahoo落札相場 / ラクマ のfixtureを配置
-- `scripts/generate-snapshot.js` で normalize → classify → aggregate を通してJSONを出力
-- `app.js` は `output/price-snapshots.json` の suggested / confidence / notes を優先表示
+## デプロイ
+このプロジェクトは Cloudflare Workers + static assets で公開しています。
 
-## メモ
-- いまは静的HTML/JSなので軽いです
-- APK化は後で WebView / Capacitor / Flutter 化できます
-- 実データ連携や画像認識は未実装です
-- いまは Yahooオークション / ラクマ / 買取サービス を想定した手入力シードデータ表示です
-- スナップショット生成系は fixture駆動のため、次は各 source adapter を実サイト取得へ差し替える段階です
-�のため、次は各 source adapter を実サイト取得へ差し替える段階です
+```bash
+npx wrangler deploy worker.js --name resell-assist-mvp --assets . --compatibility-date 2026-03-17
+```
+
+## 補足
+- 価格は参考値です。状態・付属品・バッテリー状況などで上下します。
+- 一部データは fallback を含みます。
+- 公開版として改善を継続中です。

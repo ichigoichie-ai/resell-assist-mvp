@@ -15,7 +15,7 @@ async function normalizeAndClassify(sourceItems) {
   return sourceItems.map((item) => {
     const matched = matchProduct(products, item.titleRaw);
     const fallbackProductId = item.seedProductId ?? null;
-    const matchedProductId = matched.matchedProductId ?? fallbackProductId;
+    const matchedProductId = fallbackProductId ?? matched.matchedProductId ?? null;
     const product = products.find((p) => p.id === matchedProductId) ?? null;
     const classified = classifyItem({
       title: item.titleRaw,
@@ -29,6 +29,7 @@ async function normalizeAndClassify(sourceItems) {
       ...item,
       normalizedTitle: normalizeText(item.titleRaw),
       matchedProductId,
+      matchedCandidateProductId: matched.matchedProductId ?? null,
       matchScore: matched.matchedProductId ? matched.matchScore : Math.max(matched.matchScore, 0.56),
       matchCandidates: matched.candidates,
       ...classified

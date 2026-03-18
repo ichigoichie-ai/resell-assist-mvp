@@ -3,35 +3,75 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-    <title>Resell Assist MVP</title>
+    <title>買取比較.net | iPhone・AirPods・Switchの売却相場を比較</title>
+    <meta name="description" content="買取比較.net は、iPhone・AirPods・Switchなどの中古買取価格と売却相場を比較できるサイトです。標準相場、すぐ売る価格、おすすめ販路をまとめて確認できます。" />
+    <link rel="canonical" href="https://kaitorihikaku.net/" />
+    <meta property="og:title" content="買取比較.net | iPhone・AirPods・Switchの売却相場を比較" />
+    <meta property="og:description" content="買取比較.net は、iPhone・AirPods・Switchなどの中古買取価格と売却相場を比較できるサイトです。標準相場、すぐ売る価格、おすすめ販路をまとめて確認できます。" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://kaitorihikaku.net/" />
+    <meta name="twitter:card" content="summary_large_image" />
     <link rel="stylesheet" href="./styles.css" />
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"買取比較.net","url":"https://kaitorihikaku.net/","potentialAction":{"@type":"SearchAction","target":"https://kaitorihikaku.net/?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
   </head>
   <body>
     <div class="app">
-      <header class="hero">
+      <header class="hero heroSurface">
         <div>
-          <p class="eyebrow">中古売却アシスト</p>
-          <h1>いくらで、どこで売るのがいいかを最短で出す</h1>
-          <p class="sub">商品名を入れると、相場・おすすめ販路・説明文のたたき台を出します。</p>
+          <p class="eyebrow">買取比較.net</p>
+          <h1>どこで売るといくらになるか、すぐわかる</h1>
+          <p class="sub">iPhone・AirPods・Switch などの中古相場を比較して、標準価格・すぐ売る価格・おすすめ販路をまとめて確認できます。</p>
         </div>
       </header>
 
       <main class="stack">
-        <section class="card">
+        <section class="card searchCard">
           <label for="query" class="label">商品名・型番</label>
           <div class="searchRow">
             <input id="query" class="input" placeholder="例: iPhone 13 128GB" />
             <button id="searchBtn" class="primary">相場をみる</button>
           </div>
-          <div class="chips">
+          <p id="searchStatus" class="searchStatus hidden">検索中… 相場とおすすめ販路をまとめています。</p>
+          <div class="quickChips">
             <button class="chip" data-preset="iPhone 14 128GB">iPhone 14</button>
             <button class="chip" data-preset="AirPods Pro 第2世代 USB-C">AirPods Pro 2</button>
             <button class="chip" data-preset="Nintendo Switch 有機ELモデル ネオン">Switch OLED</button>
             <button class="chip" data-preset="iPad Air 第5世代 64GB Wi‑Fi">iPad Air 5</button>
-            <button class="chip" data-preset="PS5 Slim CFI-2000B">PS5 Slim Digital</button>
-            <button class="chip" data-preset="Apple Watch SE 第2世代 44mm">Apple Watch SE2</button>
           </div>
-          <p class="hint">ローカルSKU辞書 + output/price-snapshots.json を優先して、容量・通信種別・世代違いまで候補表示。</p>
+          <p class="hint">商品名・型番で検索すると、標準相場 / すぐ売る価格 / おすすめ販路をまとめます。</p>
+        </section>
+
+        <section class="card">
+          <div class="sectionHead">
+            <div>
+              <p class="eyebrow">人気カテゴリ</p>
+              <h2 class="sectionTitle">カテゴリからすぐ試す</h2>
+            </div>
+            <p id="categorySummary" class="sub small">-</p>
+          </div>
+          <div id="categorySections" class="categorySections"></div>
+        </section>
+
+        <section class="card">
+          <div class="sectionHead">
+            <div>
+              <p class="eyebrow">価格トレンド</p>
+              <h2 class="sectionTitle">価格上昇中のアイテム</h2>
+            </div>
+            <p id="trendHubSummary" class="sub small">-</p>
+          </div>
+          <div id="trendHub" class="trendHub"></div>
+        </section>
+
+        <section class="card">
+          <div class="sectionHead">
+            <div>
+              <p class="eyebrow">商品別ページ</p>
+              <h2 class="sectionTitle">人気ページ</h2>
+            </div>
+            <p id="seoHubSummary" class="sub small">-</p>
+          </div>
+          <div id="seoHubSections" class="seoHubSections"></div>
         </section>
 
         <section id="emptyState" class="card muted">
@@ -49,6 +89,27 @@
                 <div id="productSpecs" class="tagRow productSpecs"></div>
               </div>
               <div class="pill" id="priceRange">-</div>
+            </div>
+            <div id="confidenceBanner" class="confidenceBanner hidden">
+              <span id="confidenceBadge" class="confidenceBadge">-</span>
+              <span id="confidenceText" class="sub small">-</span>
+            </div>
+            <div id="heroSummary" class="heroSummary">
+              <div class="heroCard heroPrimary">
+                <span class="heroLabel">標準相場</span>
+                <strong id="heroStandardPrice">-</strong>
+                <p id="heroStandardNote" class="sub small">-</p>
+              </div>
+              <div class="heroCard">
+                <span class="heroLabel">すぐ売るなら</span>
+                <strong id="heroQuickPrice">-</strong>
+                <p id="heroQuickNote" class="sub small">-</p>
+              </div>
+              <div class="heroCard">
+                <span class="heroLabel">おすすめ販路</span>
+                <strong id="heroBestMarket">-</strong>
+                <p id="heroBestMarketNote" class="sub small">-</p>
+              </div>
             </div>
             <div id="snapshotSummary" class="snapshotSummary hidden">
               <div class="snapshotTop">
@@ -79,6 +140,11 @@
           </section>
 
           <section class="card">
+            <h3>参考リンク</h3>
+            <div id="referenceLinks" class="referenceLinks"></div>
+          </section>
+
+          <section class="card">
             <h3>おすすめ出品価格</h3>
             <div id="priceCards" class="priceCards"></div>
           </section>
@@ -103,15 +169,18 @@
               <ul id="checklist"></ul>
             </div>
             <div>
-              <h3>関連アフィリエイト枠</h3>
+              <h3>送客 / アフィリエイト枠</h3>
               <div class="affiliateBox">
-                <p><strong>おすすめ：</strong>梱包材セット / クリーニングクロス / 撮影ライト</p>
-                <p class="sub small">ここは後でASPやAmazon系アフィリ差し替え想定。</p>
+                <p><strong>候補：</strong>買取サービス送客 / 梱包材セット / クリーニングクロス / 撮影ライト</p>
+                <p class="sub small">MVPでは送客導線の仮置き。正式提携先が決まったら差し替える。</p>
               </div>
             </div>
           </section>
         </section>
       </main>
+      <footer class="footerNote">
+        <p class="sub small">掲載価格は参考値です。状態・付属品・バッテリー・欠品状況によって上下します。</p>
+      </footer>
     </div>
     <script src="./app.js" type="module"></script>
   </body>
